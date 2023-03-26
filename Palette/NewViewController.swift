@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ViewController: UIViewController {
+class NewViewController: UIViewController {
 
     @IBOutlet var paletteView: UIView!
     
